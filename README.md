@@ -1,2 +1,2 @@
 # hello-world2
-new repository
+New repository for hello-world2
